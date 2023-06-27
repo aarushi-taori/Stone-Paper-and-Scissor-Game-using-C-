@@ -1,4 +1,4 @@
-# Stone-Paper-and-Scissor-Game-using-C++-
+# Stone-Paper-and-Scissor-Game-using-Random-Module-in-C++
 
 Rock Paper Scissor is a  game,in which each player simultaneously forms one of the three shapes.The winner of the game is decided as per the below rules:
 
